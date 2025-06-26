@@ -27,7 +27,7 @@ This project contains the database schema and ER diagram for a Library Managemen
 ## Files
 - `library.sql` : SQL script to create the schema.
 - `LibraryModel.png` : ER diagram of the database.
-![LibraryModel](https://github.com/user-attachments/assets/88fcb015-b003-4b63-b0a3-b40c28a1385c)
+- ![LibraryModel](https://github.com/user-attachments/assets/88fcb015-b003-4b63-b0a3-b40c28a1385c)
 
 
 ---
