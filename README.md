@@ -1,3 +1,4 @@
+
 # Library_Database_Schema
 
 
@@ -26,6 +27,8 @@ This project contains the database schema and ER diagram for a Library Managemen
 ## Files
 - `library.sql` : SQL script to create the schema.
 - `LibraryModel.png` : ER diagram of the database.
+- ![image](https://github.com/user-attachments/assets/3c6d4168-92eb-43e1-815a-953872f92c97)
+
 ---
 ## Tech Stack
 - MySQL Workbench, MySQL
